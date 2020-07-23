@@ -24,6 +24,8 @@
 
 复盘:  今天低点的时候应该低吸一些股票
 
-<img src="assets/readme/image-20200723152121974.png" alt="image-20200723152121974" style="zoom:50%;" />
+<img src="assets/readme/image-20200723152743120.png" alt="image-20200723152743120" style="zoom:50%;" />
+
+---
 
 <img src="assets/readme/image-20200723152230602.png" alt="image-20200723152230602" style="zoom:50%;" />
