@@ -76,3 +76,24 @@
 <img src="assets/readme/image-20200724161024581.png" alt="image-20200724161024581" style="zoom:50%;" />
 
 <img src="assets/readme/image-20200724161215158.png" alt="image-20200724161215158" style="zoom:50%;" />
+
+## 2020-07-27
+
+成交量:   `缩`
+
+<img src="assets/readme/image-20200728092716578.png" alt="image-20200728092716578" style="zoom:50%;" />
+
+<img src="assets/readme/image-20200728092109587.png" alt="image-20200728092109587" style="zoom:50%;" />
+
+## 2020-07-28
+
+成交量：3898.74 亿 `缩`
+
+
+
+<img src="assets/readme/image-20200728153746428.png" alt="image-20200728153746428" style="zoom:50%;" />
+
+
+
+​                                        	<img src="assets/readme/image-20200728153641454.png" alt="image-20200728153641454" style="zoom: 50%;" />
+
