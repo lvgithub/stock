@@ -99,8 +99,14 @@
 
 ## 2020-07-29
 
+成交量：4530.94 亿 `放`
+
 <img src="assets/readme/image-20200729175426012.png" alt="image-20200729175426012" style="zoom:50%;" />
 
 <img src="assets/readme/image-20200729175448642.png" alt="image-20200729175448642" style="zoom:50%;" />
 
 <img src="assets/readme/image-20200729175551629.png" alt="image-20200729175551629" style="zoom:50%;" />
+
+## 2020-07-30
+
+风险指数 `70` 防守
